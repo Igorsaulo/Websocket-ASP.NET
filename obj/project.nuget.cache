@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "FZ7AlrANX+5RjlVvFCL8J/77MdQo9U3dbGQceWAAkAhoM3S5eqa6EM8n1fPjMl4xFmGt3Jywxjb4bxShxWJf8Q==",
+  "success": true,
+  "projectFilePath": "/home/ArquivosHD/c#/MeuAppWebSocket/MeuAppWebSocket.csproj",
+  "expectedPackageFiles": [
+    "/home/igor-sauru/.nuget/packages/microsoft.aspnetcore.http.abstractions/2.2.0/microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "/home/igor-sauru/.nuget/packages/microsoft.aspnetcore.http.extensions/2.2.0/microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",
+    "/home/igor-sauru/.nuget/packages/microsoft.aspnetcore.http.features/2.2.0/microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "/home/igor-sauru/.nuget/packages/microsoft.aspnetcore.websockets/2.2.1/microsoft.aspnetcore.websockets.2.2.1.nupkg.sha512",
+    "/home/igor-sauru/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.2.0/microsoft.extensions.dependencyinjection.abstractions.2.2.0.nupkg.sha512",
+    "/home/igor-sauru/.nuget/packages/microsoft.extensions.fileproviders.abstractions/2.2.0/microsoft.extensions.fileproviders.abstractions.2.2.0.nupkg.sha512",
+    "/home/igor-sauru/.nuget/packages/microsoft.extensions.logging.abstractions/2.2.0/microsoft.extensions.logging.abstractions.2.2.0.nupkg.sha512",
+    "/home/igor-sauru/.nuget/packages/microsoft.extensions.options/2.2.0/microsoft.extensions.options.2.2.0.nupkg.sha512",
+    "/home/igor-sauru/.nuget/packages/microsoft.extensions.primitives/2.2.0/microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "/home/igor-sauru/.nuget/packages/microsoft.net.http.headers/2.2.0/microsoft.net.http.headers.2.2.0.nupkg.sha512",
+    "/home/igor-sauru/.nuget/packages/system.buffers/4.5.0/system.buffers.4.5.0.nupkg.sha512",
+    "/home/igor-sauru/.nuget/packages/system.componentmodel.annotations/4.5.0/system.componentmodel.annotations.4.5.0.nupkg.sha512",
+    "/home/igor-sauru/.nuget/packages/system.memory/4.5.1/system.memory.4.5.1.nupkg.sha512",
+    "/home/igor-sauru/.nuget/packages/system.net.websockets.websocketprotocol/4.5.3/system.net.websockets.websocketprotocol.4.5.3.nupkg.sha512",
+    "/home/igor-sauru/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.1/system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "/home/igor-sauru/.nuget/packages/system.text.encodings.web/4.5.0/system.text.encodings.web.4.5.0.nupkg.sha512",
+    "/home/igor-sauru/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.7/microsoft.aspnetcore.app.ref.7.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

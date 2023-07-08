@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "13ZPv4OA6h3GkGWcc0sVONRF8mT+DqRZoUy8Wu9NVOw=",
+  "Source": "MeuAppWebSocket",
+  "BasePath": "_content/MeuAppWebSocket",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
