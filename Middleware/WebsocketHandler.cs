@@ -22,7 +22,6 @@ namespace MeuAppWebSocket.Middleware
             {
                 WebSocket webSocket = await context.WebSockets.AcceptWebSocketAsync();
 
-                // Processar as mensagens recebidas
                 await HandleWebSocketConnection(webSocket);
             }
             else
